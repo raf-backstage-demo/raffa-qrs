@@ -1,0 +1,8 @@
+site_name: "raffa-qrs"
+site_description: "raffa-qrs"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
